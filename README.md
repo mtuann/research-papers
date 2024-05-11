@@ -1,12 +1,5 @@
 This repository contains `R code` for deploying a Shiny app that allows users to explore the research papers AI/ ML researchers have published. The app uses the `shiny` package in R to create an interactive [web](https://mtuann.shinyapps.io/research-papers/) application.
 
-If you find this application useful, you can support me by buying me a coffee. 
-You can use either [Paypal](https://paypal.me/AIsmylife) or Techcombank (Vietnam).
-
-<!-- ![Techcombank](qr-donate.png)
-# make the image smaller -->
-
-![Techcombank](qr-donate.png){ width=50px }
 
 
 - The app is deployed at [https://mtuann.shinyapps.io/research-papers/](https://mtuann.shinyapps.io/research-papers/).
@@ -36,3 +29,9 @@ To do:
 - [ ] Computer Graphics and Computer-Aided Design (SIGGRAPH, TOG, TVCG, CAD, CAGD)
 - [ ] Software Engineering and Programming Languages (ICSE, FSE, POPL, TSE, TOSEM)
 - [ ] Theory and Algorithms (STOC, FOCS, SODA, JACM, TALG)
+
+
+If you find this application useful, you can support me by buying me a coffee. 
+You can use either [Paypal](https://paypal.me/AIsmylife) or Techcombank (Vietnam).
+
+![Techcombank](qr-donate.png)

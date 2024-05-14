@@ -5,3 +5,15 @@ rsconnect/
 .DS_Store
 papers-shiny.R
 *.json
+*.xlsx
+*.R
+
+data/arxiv_cv_2024.csv
+data/arxiv_nlp_old_2024.csv
+data/dblp_cv_2024.csv
+data/gg-publication.csv
+data/neurips_icml_iclr_2024.csv
+ggscholar.ipynb
+test_bd.txt
+soup_test.ipynb
+crawl-fl-and-backdoor.py

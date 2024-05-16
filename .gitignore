@@ -17,3 +17,5 @@ ggscholar.ipynb
 test_bd.txt
 soup_test.ipynb
 crawl-fl-and-backdoor.py
+*-pdf/
+*-pdf.py

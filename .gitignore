@@ -19,3 +19,5 @@ soup_test.ipynb
 crawl-fl-and-backdoor.py
 *-pdf/
 *-pdf.py
+__pycache__/
+openreview-crawl.py
